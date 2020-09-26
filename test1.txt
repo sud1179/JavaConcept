@@ -1,0 +1,14 @@
+Write using FileWriter
+My Name is sudeep
+My
+My Name is Khna
+My Name is Testing
+My Name is raj
+*******************************
+Write using bufferedWriter
+bufferedWriter Testing
+ using file concert 
+*******************************
+Write using printWriter
+Testing write
+Using print function
