@@ -28,7 +28,7 @@ public class FileHandling {
      // the argument of the bufferedwriter() is a any writer object
      BufferedWriter bw= new BufferedWriter(fw);
      bw.newLine();
-     bw.write("*******************************");
+     bw.write("*************************••••••••••••••*****");
      bw.newLine();
      bw.write("Write using bufferedWriter");
      bw.newLine();
@@ -86,24 +86,7 @@ public class FileHandling {
      }
      br.close();
      
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
+    
 	}
 
 }
