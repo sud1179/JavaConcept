@@ -12,3 +12,17 @@ bufferedWriter Testing
 Write using printWriter
 Testing write
 Using print function
+this is the extra line added by CMD
+
+[A[A[A[B[B[B[A[Aexit
+exit
+help
+[A..
+\
+cd
+
+git log
+return
+..>>
+
+return
